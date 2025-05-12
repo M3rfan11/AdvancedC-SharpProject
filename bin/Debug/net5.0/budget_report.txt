@@ -1,0 +1,13 @@
+===> Budget Report <===
+
+Income: freelancing  => 30000
+Income: work  => 40000
+Income: finance  => 100000
+Expenses: home  => 20000
+Expenses: electricity  => 10000
+Expenses: benzene  => 1000
+
+===> Summary <===
+Total Income: $170,000.00
+Total Expenses: $31,000.00
+Current Balance: $139,000.00

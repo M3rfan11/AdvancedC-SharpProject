@@ -1,0 +1,30 @@
+/Users/osz/projectone/bin/Debug/net5.0/projectone
+/Users/osz/projectone/bin/Debug/net5.0/projectone.deps.json
+/Users/osz/projectone/bin/Debug/net5.0/projectone.runtimeconfig.json
+/Users/osz/projectone/bin/Debug/net5.0/projectone.runtimeconfig.dev.json
+/Users/osz/projectone/bin/Debug/net5.0/projectone.dll
+/Users/osz/projectone/bin/Debug/net5.0/projectone.pdb
+/Users/osz/projectone/obj/Debug/net5.0/projectone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osz/projectone/obj/Debug/net5.0/projectone.AssemblyInfoInputs.cache
+/Users/osz/projectone/obj/Debug/net5.0/projectone.AssemblyInfo.cs
+/Users/osz/projectone/obj/Debug/net5.0/projectone.csproj.CoreCompileInputs.cache
+/Users/osz/projectone/obj/Debug/net5.0/projectone.dll
+/Users/osz/projectone/obj/Debug/net5.0/refint/projectone.dll
+/Users/osz/projectone/obj/Debug/net5.0/projectone.pdb
+/Users/osz/projectone/obj/Debug/net5.0/projectone.genruntimeconfig.cache
+/Users/osz/projectone/obj/Debug/net5.0/ref/projectone.dll
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone.deps.json
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone.runtimeconfig.json
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone.runtimeconfig.dev.json
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone.dll
+/Users/osz/Desktop/Asp.net diploma/projectone/bin/Debug/net5.0/projectone.pdb
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.AssemblyInfoInputs.cache
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.AssemblyInfo.cs
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.csproj.CoreCompileInputs.cache
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.dll
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/refint/projectone.dll
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.pdb
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/projectone.genruntimeconfig.cache
+/Users/osz/Desktop/Asp.net diploma/projectone/obj/Debug/net5.0/ref/projectone.dll
